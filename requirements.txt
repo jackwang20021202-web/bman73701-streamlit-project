@@ -5,3 +5,4 @@ pulp
 scikit-learn
 matplotlib
 seaborn
+openpyxl
