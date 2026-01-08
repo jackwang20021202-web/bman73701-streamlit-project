@@ -8,8 +8,11 @@ It implements **Tasks 1–8** as specified in the coursework brief, combining op
 
 ##  How to Run the App
 
-### 1. Install dependencies
-```bash
+
+1.Install dependencies
+bash
+pip install -r requirements.txt
+
 2. Run Streamlit
 streamlit run app.py
 
