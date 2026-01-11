@@ -6,3 +6,4 @@ scikit-learn
 matplotlib
 seaborn
 openpyxl
+xgboost==1.7.6
